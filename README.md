@@ -1,3 +1,3 @@
 # meu-repositorio-de-autenticacoes
 
-Teste de comandos de git e autenticacoes
+Teste de comandos de git e autenticações fff
